@@ -1,0 +1,11 @@
+{
+    "name": "pomodoro techinique timer",
+    "version": "1.0",
+    "description": "your productivity, your discipline, your tactics all in one",
+    "manifest_version": 3,
+    "author": "Shivly S. Mizi",
+    "action":{
+        "default_popup":"../src/index.html",
+        "default_title": "tomato toumato >.<"
+    }
+}
